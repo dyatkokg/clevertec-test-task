@@ -20,7 +20,6 @@ public class CardServiceImpl implements CardService {
     @Override
     public Card getCard(Integer id) {
         return cardRepository.getById(id).orElseThrow(()->new CardNotFoundException(id));
-
     }
 
 }
