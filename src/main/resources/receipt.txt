@@ -1,0 +1,18 @@
+                   CASH RECIPE                   
+                 SUPERMARKET 123               
+
+	 	 	 	2022-12-19 18:30
+————————————————————————————————————————————————————
+Q 	 	 Name 		 Price 		 Total
+
+3 	 	 meat 	   15.0  	 45.0
+1 	 	 salmon 	   20.0  	 20.0
+7 	 	 avocado 	   7.0  	 49.0
+4 	 	 rice 	   6.0  	 24.0
+————————————————————————————————————————————————————
+
+Subtotal: 138.0
+Discount Card: gold
+Discount Value: 20
+
+Total: 131.1
